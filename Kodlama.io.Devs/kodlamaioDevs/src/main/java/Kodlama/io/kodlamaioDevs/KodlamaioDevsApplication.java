@@ -9,5 +9,4 @@ public class KodlamaioDevsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KodlamaioDevsApplication.class, args);
 	}
-
 }
